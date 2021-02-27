@@ -2,7 +2,7 @@
 name: Game Bug
 about: Create a new game bug report
 title: ""
-labels: bug
+labels: 
 assignees: ''
 
 ---
